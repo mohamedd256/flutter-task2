@@ -1,10 +1,5 @@
-## 🖼️ Screenshots
-
 ### Login Screen
-![Login Screen](Screenshots/main.png)
+![Login Screen](screenshots/1.png)
 
 ### second page
-![second](Screenshots/all.png)
-![second](Screenshots/work.png)
-![second](Screenshots/personal.png)
-![second](Screenshots/study.png)
+![second](screenshots/2.png)
